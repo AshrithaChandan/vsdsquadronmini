@@ -1,0 +1,2 @@
+# vsdsquadronmini
+RISCV based processor 
